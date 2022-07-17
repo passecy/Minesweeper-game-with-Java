@@ -50,7 +50,7 @@ class Scratch {
 
 
 
-        //answer box for all inputs
+        //answer box for all points
         int[][]answers=new int[a][a];
         for (int k = 0; k <a; k++) {
             for (int l = 0; l <a; l++) {
